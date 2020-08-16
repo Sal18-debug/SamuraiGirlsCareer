@@ -1,0 +1,37 @@
+body{
+  background-color: purple;
+  color:white;
+}
+.space{
+  text-align: right;
+}
+a{
+  background-color: #ff8c00 ;
+  color: white;
+  text-decoration: none;
+  width:250px;
+  height:250px;
+  padding: 10px;.
+  font-size: 5px;
+}
+hr{
+    color:grey;
+}
+#submit
+{
+   text-align:right;
+}
+#submit button
+{
+  width:100px;
+  height:40px;
+  padding: 5px;
+}
+button{
+  background-color:  #ff8c00 ;
+  color: white;
+  width:140px;
+  height:40px;
+  padding: 10px;.
+  font-size: 5px;
+}

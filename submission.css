@@ -1,0 +1,25 @@
+body{
+  background-color: purple;
+  color:white;
+}
+a{
+  background-color: #ff8c00 ;
+  color: white;
+  text-decoration: none;
+  width:250px;
+  height:250px;
+  padding: 10px;.
+  font-size: 5px;
+}
+button{
+  background-color:  #ff8c00 ;
+  color: white;
+  width:140px;
+  height:40px;
+  padding: 5px;.
+  font-size: 5px;
+}
+input{
+  width:500px;
+  height:500px;
+}

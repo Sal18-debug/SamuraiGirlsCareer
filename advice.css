@@ -1,0 +1,21 @@
+body{
+  background-color: purple;
+  color:white;
+}
+a{
+  color: white;
+  width:250px;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 45px;
+  margin-right: 20px;
+}
+.leave{
+    background-color: #ff8c00 ;
+    color: white;
+    text-decoration: none;
+    width:250px;
+    height:250px;
+    padding: 10px;.
+    font-size: 5px;
+}
